@@ -1,0 +1,12 @@
+.marginTop{
+    margin-top: auto !important;
+}
+
+.back{
+    margin-left: 1% !important;
+    background-color: aliceblue;
+}
+
+.imgSize{
+    width: 50px;
+}
