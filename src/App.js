@@ -14,7 +14,7 @@ function App() {
 
   const handleClick = (info) => {
     setShowInformation(true)
-    countryInfo.current= {...info}
+    countryInfo.current= [...info]
   }
 
  const weatherData = (data) => {
